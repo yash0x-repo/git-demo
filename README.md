@@ -2,3 +2,6 @@
 first git demo repo
 <br>
 Author - Yash
+<br>
+I am yash, this is my first attempt learning git
+
